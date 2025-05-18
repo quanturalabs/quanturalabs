@@ -88,6 +88,16 @@ quantura-network/
 
 ---
 
+## 🧠 Contributing
+
+Quantura is an open, community-driven project. We welcome developers, researchers, and enthusiasts to contribute!  
+
+For detailed guidelines, please see our [CONTRIBUTING.md](../CONTRIBUTING.md) file.
+
+We look forward to your ideas and pull requests.
+
+---
+
 ## 📡 Community
 
 * Website: [quantura.network](https://quantura.network)
